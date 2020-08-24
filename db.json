@@ -1,11 +1,29 @@
 {
   "privileges": [
     {
+      "id": "BIuZBh9E",
       "emailAddress": "jitan.gupta@sayourideas.com",
       "privilege": [
         "investor/mentor",
         "user wait list",
         "user privilage"
+      ]
+    },
+    {
+      "id": "JV0rJ8rBP",
+      "emailAddress": "apoorva.kumar@sayourideas.com",
+      "privilege": [
+        "investor/mentor",
+        "user wait list",
+        "user privilage"
+      ]
+    },
+    {
+      "id": "QXleIF25T",
+      "emailAddress": "kunal.soni@sayourideas.com",
+      "privilege": [
+        "investor/mentor",
+        "user wait list"
       ]
     }
   ]
